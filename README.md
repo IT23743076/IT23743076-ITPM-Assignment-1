@@ -23,7 +23,7 @@ Positive Functional Test, Negative Functional Test (conceptual mapping), and UI 
 2. Clone the repository and navigate into it:
    ```bash
    git clone https://github.com/IT23743076/IT23743076-ITPM-Assignment-1.git
-   cd IT23646810-ITPM-Assignment-1
+   cd IT23743076-ITPM-Assignment-1
 
 3. Run all tests:
    npx playwright test
